@@ -1,16 +1,29 @@
-## Hi there 👋
+# Projects
 
-<!--
-**taqitazwar/taqitazwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [Personal Website](https://github.com/taqitazwar/this-website)
+Link: https://taqitazwar.com  
+![Portfolio Demo](https://raw.githubusercontent.com/taqitazwar/this-website/main/assets/preview.png)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [ZeroWaste App](https://github.com/taqitazwar/zerowaste)
+Demo: https://youtu.be/your-zerowaste-demo  
+![ZeroWaste Screenshot](https://raw.githubusercontent.com/taqitazwar/zerowaste/main/assets/demo.png)
+
+---
+
+## [Kivi Board Game](https://github.com/taqitazwar/kivi-board-game)
+Demo: https://youtu.be/your-kivi-demo  
+![Kivi Game Screenshot](https://raw.githubusercontent.com/taqitazwar/kivi-board-game/main/assets/game-ui.png)
+
+---
+
+## [Wordnet Server](https://github.com/taqitazwar/wordnet-server)
+Demo: https://youtu.be/your-wordnet-demo  
+![Wordnet Server Screenshot](https://raw.githubusercontent.com/taqitazwar/wordnet-server/main/assets/server-ui.png)
+
+---
+
+## [2D Rubik's Cube Solver](https://github.com/taqitazwar/2d-rubiks-cube-solver)
+Demo: https://youtu.be/your-rubik-demo  
+![Rubik Solver UI](https://raw.githubusercontent.com/taqitazwar/2d-rubiks-cube-solver/main/assets/solver-ui.png)
