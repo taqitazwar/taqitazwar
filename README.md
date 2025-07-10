@@ -8,7 +8,7 @@ Make sure to check out my [Portfolio](https://taqitazwar.com)!
 - 🔭 I’m currently working on portfolio enhancements and mobile tools.
 - 🌱 Currently learning more about data pipelines, threading, and backend architecture.
 - 👯 I’m always open to collaborate on impactful tech projects.
-- 📫 How to reach me: taqitazwar@gmail.com
+- 📫 How to reach me: ttazwar@mun.ca
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving Rubik’s Cubes and building games from scratch.
 
