@@ -10,7 +10,6 @@ Make sure to check out my [Portfolio](https://taqitazwar.com)!
 - 🌱 Currently learning more about data pipelines, threading, and backend architecture.
 - 👯 I’m always open to collaborate on impactful tech projects.
 - 📫 How to reach me: ttazwar@mun.ca
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving Rubik’s Cubes and building websites.
 
 <h3>:fire: My Stats :</h3>
