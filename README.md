@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I’m a senior Computer Science student at Memorial University of Newfoundland passionate about solving real-world problems through clean, efficient code.
-My interests range from web and mobile app development to algorithmic problem solving, game development, and data-driven apps.
+I’m a senior Computer Science student at Memorial University of Newfoundland passionate about solving real-world problems through clean, efficient code.  
+My interests range from web and mobile app development to algorithmic problem solving, game development, and data-driven apps.  
 When I’m not coding, you’ll find me tinkering with side projects or learning about emerging tech. Excited to collaborate on open-source and learn from fellow developers!
 
 
